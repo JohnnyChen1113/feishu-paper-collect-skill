@@ -1,4 +1,6 @@
-# feishu-paper-collect
+# feishu-paper-collect-skill
+
+[English](README.md) | [中文](README.zh-CN.md)
 
 Extract metadata from academic papers and web articles, then save to Feishu (飞书) Bitable — all in one command.
 
